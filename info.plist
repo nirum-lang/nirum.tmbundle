@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>contactEmailRot13</key>
+    <string>ubat.zvaurr@tznvy.pbz</string>
+    <key>contactName</key>
+    <string>Hong Minhee</string>
+    <key>description</key>
+    <string>IDL compiler and RPC/distributed object framework for microservices</string>
+    <key>name</key>
+    <string>Nirum</string>
+    <key>uuid</key>
+    <string>56953EFE-1F1F-42D2-A776-F774B81C5158</string>
+</dict>
+</plist>
